@@ -37,7 +37,7 @@ While building this project, I practiced:
 
 ### Links
 
-- Live Site URL: [Add your live site URL here (e.g., GitHub Pages, Netlify, Vercel)](https://khushiweb136.github.io/Blog-Preview-Card/)
+- Live Site URL: https://khushiweb136.github.io/Blog-Preview-Card/
 
 ## Project Structure
 
