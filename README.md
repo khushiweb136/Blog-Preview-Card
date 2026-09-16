@@ -16,9 +16,6 @@ The card includes:
 * Short description
 * Author information
 
-## Screenshot
-
-![Blog Preview Card](./assets/screenshot.png)
 
 ## Built With
 
@@ -38,23 +35,9 @@ While building this project, I practiced:
 * Creating hover states
 * Organizing project files
 
-## Getting Started
+### Links
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/blog-preview-card.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd blog-preview-card
-```
-
-3. Open `index.html` in your browser.
+- Live Site URL: [Add your live site URL here (e.g., GitHub Pages, Netlify, Vercel)](https://khushiweb136.github.io/Blog-Preview-Card/)
 
 ## Project Structure
 
